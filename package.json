@@ -1,0 +1,27 @@
+{
+  "name": "type-script",
+  "version": "1.0.0",
+  "description": "learning typescript webpack setting",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjshinning/type-script.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjshinning/type-script/issues"
+  },
+  "homepage": "https://github.com/cjshinning/type-script#readme",
+  "devDependencies": {
+    "@types/lodash": "^4.14.144",
+    "ts-loader": "^6.2.0",
+    "typescript": "^3.6.4",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.9"
+  }
+}
